@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FFAPIsKit_Example' do
+  pod 'FFAPIsKit', :path => '../'
+
+  target 'FFAPIsKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
