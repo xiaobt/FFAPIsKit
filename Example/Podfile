@@ -1,3 +1,6 @@
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/xiaobt/FFSpecs.git'
+
 use_frameworks!
 
 target 'FFAPIsKit_Example' do

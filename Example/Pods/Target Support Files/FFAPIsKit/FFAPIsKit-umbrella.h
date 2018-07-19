@@ -10,6 +10,11 @@
 #endif
 #endif
 
+#import "APIRequest.h"
+#import "APIRequestProtocol.h"
+#import "APIResponseProtocol.h"
+#import "FFReformProtocol.h"
+#import "NetworkHelper.h"
 
 FOUNDATION_EXPORT double FFAPIsKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char FFAPIsKitVersionString[];
