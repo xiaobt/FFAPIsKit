@@ -21,7 +21,7 @@
   "source_files": "FFAPIsKit/Classes/**/*",
   "dependencies": {
     "AFNetworking": [
-      "~> 2.3"
+      "~> 3.1.0"
     ]
   }
 }
